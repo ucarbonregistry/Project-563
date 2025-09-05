@@ -22,3 +22,30 @@ Estimated amount of total
 GHG emission reductions
 To be estimated during verification
 [An ex-ante estimate is 3,035 CoUs per year]
+
+The proposed project titled under UCR is “1.54 MW Solar Power Project by M/s Sustainable Spinning
+Mills and Commodities Pvt. Ltd.”, which is a grid connected solar power project located in the district
+Surendranagar, in the state of Gujarat, in India. The purpose of this power is for captive consumption.
+The promoter of the project activity is ‘M/s Sustainable Spinning Mills and Commodities Pvt. Ltd.’
+(herein after called as Project Proponent or PP). PP has the full ownership of the project activity. This
+project is an operational activity with continuous reduction of GHG, currently being applied under
+“Universal Carbon Registry” (UCR).
+
+The purpose of the proposed project activity is to generate electricity using a clean and renewable source
+of energy i.e., solar radiation. The proposed project activity of 1.54 MW (i.e., 1547 kWp) is installation
+and operation of solar power plant at Village – Untadi, Taluka – Limbdi, in Surendranagar district in the
+state of Gujarat are per details listed below:
+___________
+Village Taluka District Type Total installed capacity in AC kWp Commissioning date
+_________
+Untadi Limbdi Surendranagar Rooftop mounted 1547 03/10/2020
+______________________
+As per the ex-ante estimate, this project will generate approximately 3,372 MWh of electricity per annum
+considering an average PLF of 25%. The project activity uses Monocrystalline Renewable solar
+photovoltaic technology to generate clean energy. The generation of power from solar photovoltaic is a
+clean technology as there is no fossil fuel fired or no GHG gases are emitted during the process.
+Photovoltaic module consists of several photovoltaic cells connected by circuits and sealed in an
+environmentally protective laminate, which forms the fundamental building blocks of the complete PV
+generating unit. Several PV panels mounted on a frame are termed as PV Array. Thus, project activity
+leads to reduce the GHG emissions as it displaces power from fossil fuel-based electricity generation in
+the regional grid.
